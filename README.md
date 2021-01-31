@@ -14,7 +14,7 @@
    3. Master the flick and drive serve.
    4. Master the forehand.
    5. Master the backhand.
-5. Learning the rules.[See Here](Images/Badminton_Rules.png)
+5. Learning the rules.[See Here](Images/Rules.jpg)
    * Understand the object of the game.
    * Get familiar with the badminton court.
       * Understand the object of the game.
