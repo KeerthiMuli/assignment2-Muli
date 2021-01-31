@@ -40,5 +40,6 @@ Want to take a cheap vacation in 2021? Help is here. Although travel costs are o
 # Pithy Quotes
 
 > Speak only if it improves upon the silence- *Mahatma Gandhi*.
+
 > The key to success is failure- *Michael Jordan*.
 
