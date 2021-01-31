@@ -6,15 +6,15 @@
 ----
 ## A Beginners Guide to play Badminton
 1. Drop the racket head down and behind you.
-2. Keep your knees bent and ready to move.
-3. Move forward with your racket foot.
+2. Keep your knees bent and ready to move.[See Here](Knees_Bend.jpg)
+3. Move forward with your racket foot.[See Here](Moving_Forward.jpg)
 4. Keep your arm nearly straight as you swing the racket, snapping your wrist at the last possible   second before you hit the shuttle.
    1. Master the grip.
    2. Master the high and low serve. 
    3. Master the flick and drive serve.
    4. Master the forehand.
    5. Master the backhand.
-5. Learning the rules.
+5. Learning the rules.[See Here](Badminton_Rules.jpg)
    * Understand the object of the game.
    * Get familiar with the badminton court.
       * Understand the object of the game.
@@ -32,9 +32,9 @@ Want to take a cheap vacation in 2021? Help is here. Although travel costs are o
 
 |   Location      | Number of Hours |  Amount |
 |---------------- |-----------------|---------|
-|Indonesia        |       20        | $10/hour|
-|Philippines      |       70        | $35/hour|
-|Malaysia         |       80        | $45/hour|
+|[Indonesia](Images/Indonesia.jpg)        |       20        | $10/hour|
+|[Philippines](Images/Philippines.jpg)      |       70        | $35/hour|
+|[Malaysia](Images/Malaysia.jpg)        |       80        | $45/hour|
 
 ----
 # Pithy Quotes
@@ -65,16 +65,15 @@ Want to take a cheap vacation in 2021? Help is here. Although travel costs are o
 <https://en.wikipedia.org/wiki/Objective-C>
 
 
-[Indonesia](Images/Indonesia.jpg)
 
-[Philippines](Images/Philippines.jpg)
 
-[Malaysia](Images/Malaysia.jpg)
 
-[Keep your knees bent and ready to move](Knees_Bend.jpg)
 
-[Move forward with your racket foot](Moving_Forward.jpg)
 
-[Learning the rules](Badminton_Rules.jpg)
+
+
+
+
+
 
 
