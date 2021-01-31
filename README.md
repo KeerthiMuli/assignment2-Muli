@@ -8,13 +8,13 @@
 1. Drop the racket head down and behind you.
 2. Keep your knees bent and ready to move.[See Here](Images/Knees_Bend.jpg)
 3. Move forward with your racket foot.[See Here](Images/Moving_Forward.jpg)
-4. Keep your arm nearly straight as you swing the racket, snapping your wrist at the last possible   second before you hit the shuttle.
+4. Keep your arm nearly straight as you swing the racket, snapping your wrist at the last possible   second before you hit the shuttle.[See Here](Images/Rules.jpg)
    1. Master the grip.
    2. Master the high and low serve. 
    3. Master the flick and drive serve.
    4. Master the forehand.
    5. Master the backhand.
-5. Learning the rules.[See Here](Images/Rules.jpg)
+5. Learning the rules.
    * Understand the object of the game.
    * Get familiar with the badminton court.
       * Understand the object of the game.
