@@ -64,3 +64,17 @@ Want to take a cheap vacation in 2021? Help is here. Although travel costs are o
 
 <https://en.wikipedia.org/wiki/Objective-C>
 
+
+[Indonesia](Images/Indonesia.jpg)
+
+[Philippines](Images/Philippines.jpg)
+
+[Malaysia](Images/Malaysia.jpg)
+
+[Keep your knees bent and ready to move](Knees_Bend.jpg)
+
+[Move forward with your racket foot](Moving_Forward.jpg)
+
+[Learning the rules](Badminton_Rules.jpg)
+
+
