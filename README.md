@@ -24,3 +24,15 @@
       
       
 ![Click Here to know About me](AboutMe.md)
+
+----
+# Best Places to be visited under budget
+
+> Want to take a cheap vacation in 2021? Help is here. Although travel costs are on the rise this year—with experts predicting that airfares will increase by 1.5% and hotels rates will go up by 2 to 4%—it’s still possible to take an affordable trip in 2021.
+
+|   Location      | Number of Hours |  Amount |
+|---------------- |-----------------|---------|
+|Indonesia        |       20        | $10/hour|
+|Philippines      |       70        | $35/hour|
+|Malaysia         |       80        | $45/hour|
+
