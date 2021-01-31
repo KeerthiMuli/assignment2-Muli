@@ -1,7 +1,7 @@
 # assignment2-Muli
 # Keerthi Muli
 ###### Any Indian and Mexican food
-> **Mexican** food because of its **healthy ingredients** and **Indian** food because of hodpodge of **ingredients** and **aroma**.
+**Mexican** food because of its **healthy ingredients** and **Indian** food because of hodpodge of **ingredients** and **aroma**.
 
 ----
 ## A Beginners Guide to play Badminton
@@ -28,11 +28,17 @@
 ----
 # Best Places to be visited under budget
 
-> Want to take a cheap vacation in 2021? Help is here. Although travel costs are on the rise this year—with experts predicting that airfares will increase by 1.5% and hotels rates will go up by 2 to 4%—it’s still possible to take an affordable trip in 2021.
+Want to take a cheap vacation in 2021? Help is here. Although travel costs are on the rise this year—with experts predicting that airfares will increase by 1.5% and hotels rates will go up by 2 to 4%—it’s still possible to take an affordable trip in 2021.
 
 |   Location      | Number of Hours |  Amount |
 |---------------- |-----------------|---------|
 |Indonesia        |       20        | $10/hour|
 |Philippines      |       70        | $35/hour|
 |Malaysia         |       80        | $45/hour|
+
+----
+# Pithy Quotes
+
+> Speak only if it improves upon the silence- *Mahatma Gandhi*.
+> The key to success is failure- *Michael Jordan*.
 
