@@ -21,10 +21,11 @@
       * Get familiar with the badminton court.
       * Understand the basics of play.
       * Understand how a player can get a fault.
+
  ![See Here](Images/Knees_Bend.jpg)     
  ![See Here](Images/Moving_Forward.jpg)
  ![See Here](Images/Rules.jpg) 
-    
+
 [Click Here to know About me](AboutMe.md)
 
 ----
