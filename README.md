@@ -33,7 +33,7 @@ Want to take a cheap vacation in 2021? Help is here. Although travel costs are o
 |   Location      | Number of Hours |  Amount |
 |---------------- |-----------------|---------|
 |Indonesia       |       20        | $10/hour|
-|[Philippines    |       70        | $35/hour|
+|Philippines    |       70        | $35/hour|
 |Malaysia        |       80        | $45/hour|
 |Goa             |       90        | $46/hour|
 
