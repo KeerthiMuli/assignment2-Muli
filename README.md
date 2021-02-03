@@ -6,9 +6,9 @@
 ----
 ## A Beginners Guide to play Badminton
 1. Drop the racket head down and behind you.
-2. Keep your knees bent and ready to move.[See Here](Images/Knees_Bend.jpg)
-3. Move forward with your racket foot.[See Here](Images/Moving_Forward.jpg)
-4. Keep your arm nearly straight as you swing the racket, snapping your wrist at the last possible   second before you hit the shuttle.[See Here](Images/Rules.jpg)
+2. Keep your knees bent and ready to move.
+3. Move forward with your racket foot.
+4. Keep your arm nearly straight as you swing the racket, snapping your wrist at the last possible   second before you hit the shuttle.
    1. Master the grip.
    2. Master the high and low serve. 
    3. Master the flick and drive serve.
@@ -21,8 +21,10 @@
       * Get familiar with the badminton court.
       * Understand the basics of play.
       * Understand how a player can get a fault.
-      
-      
+ ![See Here](Images/Knees_Bend.jpg)     
+ ![See Here](Images/Moving_Forward.jpg)
+ ![See Here](Images/Rules.jpg) 
+    
 [Click Here to know About me](AboutMe.md)
 
 ----
@@ -35,7 +37,7 @@ Want to take a cheap vacation in 2021? Help is here. Although travel costs are o
 |[Indonesia](Images/Indonesia.jpg)        |       20        | $10/hour|
 |[Philippines](Images/Philippines.jpg)  |       70        | $35/hour|
 |[Malaysia](Images/Malaysia.jpg)      |       80        | $45/hour|
-|Goa             |       90        | $46/hour|
+|[Goa](Images/Goa.jpg)             |       90        | $46/hour|
 
 ----
 # Pithy Quotes
